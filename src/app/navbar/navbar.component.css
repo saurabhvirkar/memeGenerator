@@ -1,0 +1,23 @@
+/* header{
+    margin-top: -50px;
+    height: 150px;
+    text-align: center;
+    padding: 20px;
+    background-color: #f7f6fb;
+} */
+
+#nav {
+   
+    align-items: center;
+    background-color: #a818da;
+    display: flex;
+    height: 75px;
+    max-width: 100%;
+    padding: 0 20px;
+}
+
+#navHeading{
+    color:whitesmoke ;
+    font-size: 40px !important;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
